@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PackageDetector</string>
+    <string name="str_detect">Detect</string>
+</resources>
